@@ -1,0 +1,43 @@
+<div class="file-upload">
+  <div
+    class="drop-zone"
+    [class.dragover]="isDragging"
+    (dragover)="onDragOver($event)"
+    (dragleave)="onDragLeave($event)"
+    (drop)="onDrop($event)"
+    (click)="fileInput.click()"
+  >
+    <input
+      #fileInput
+      type="file"
+      (change)="onFileSelected($event)"
+      style="display: none"
+      multiple
+    />
+    <div class="drop-zone-content">
+      <p> Drag and drop files here, or click to select</p>
+      <p class="drop-zone-hint">Supported: Images, PDFs, Office documents, text files, archives (Max 100MB)</p>
+    </div>
+  </div>
+
+  <div *ngIf="uploadProgress > 0 && uploadProgress < 100" class="upload-progress">
+    <div class="progress-bar">
+      <div class="progress-fill" [style.width.%]="uploadProgress"></div>
+    </div>
+    <p>Uploading... {{ uploadProgress }}%</p>
+  </div>
+
+  <div *ngIf="selectedFiles.length > 0 && uploadProgress === 0" class="selected-files">
+    <h4>Selected Files:</h4>
+    <ul>
+      <li *ngFor="let file of selectedFiles">
+        {{ file.name }} ({{ formatFileSize(file.size) }})
+        <button class="btn btn-danger btn-sm" (click)="removeFile(file)">Remove</button>
+      </li>
+    </ul>
+    <button class="btn btn-primary" (click)="uploadFiles()" [disabled]="uploading">
+      Upload {{ selectedFiles.length }} file(s)
+    </button>
+  </div>
+</div>
+

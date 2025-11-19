@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.deps.json
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.pdb
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\refint\FileStorage.Domain.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.pdb
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Domain\obj\Debug\net8.0\ref\FileStorage.Domain.dll

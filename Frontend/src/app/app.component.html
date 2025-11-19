@@ -1,0 +1,17 @@
+<div class="app-container">
+  <header class="app-header">
+    <div class="container">
+      <h1>File Storage & Document Management</h1>
+      <nav>
+        <a routerLink="/login" *ngIf="!isAuthenticated()">Login</a>
+        <a routerLink="/files" *ngIf="isAuthenticated()">Files</a>
+        <button *ngIf="isAuthenticated()" (click)="logout()" class="btn btn-secondary">Logout</button>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <router-outlet></router-outlet>
+  </main>
+  <app-toast></app-toast>
+</div>
+

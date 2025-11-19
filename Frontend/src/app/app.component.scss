@@ -1,0 +1,41 @@
+.app-container {
+  min-height: 100vh;
+}
+
+.app-header {
+  background: #2196f3;
+  color: white;
+  padding: 20px 0;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.app-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-header h1 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.app-header nav {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.app-header a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.app-header a:hover {
+  background: rgba(255,255,255,0.1);
+}
+

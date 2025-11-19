@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\bin\Debug\net8.0\FileStorage.Application.deps.json
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\bin\Debug\net8.0\FileStorage.Application.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\bin\Debug\net8.0\FileStorage.Application.pdb
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\bin\Debug\net8.0\FileStorage.Domain.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\bin\Debug\net8.0\FileStorage.Domain.pdb
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStor.FC19584B.Up2Date
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\refint\FileStorage.Application.dll
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\FileStorage.Application.pdb
+C:\Users\USER\Desktop\new task\Backend\src\FileStorage.Application\obj\Debug\net8.0\ref\FileStorage.Application.dll
