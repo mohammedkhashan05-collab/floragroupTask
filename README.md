@@ -74,12 +74,6 @@ npm start
 
 The frontend will be available at `http://localhost:4200`
 
-## Default Users
-
-- Username: `admin` (role: admin)
-- Username: `user` (role: user)
-- Password: any password works for demo
-
 ## API Endpoints
 
 - `POST /api/auth/login` - Login
